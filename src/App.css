@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+
+.landing-page{
+
+background-image: url("./assests/Shopping-Cart.jpg");
+background-color: white;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: scroll;
+
+  background-size: cover;
+  height: 100vh;
+  color:pink
+}
+
+.wrapper{
+
+  background-color: rgba(0,0,0,0.7);
+  height: 100%;
+}
+
+.table tbody tr td{
+
+  font-weight: bold !important;
+  
+}
+
+.active{
+
+  background-color: darkslategray;
+}
